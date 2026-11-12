@@ -1,0 +1,23 @@
+# Plano de trabalho em Markdown (ignorado conforme solicitado, mantendo README.md)
+*.md
+!README.md
+
+# Ambiente virtual e Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos auxiliares de compilação LaTeX
+report/*.aux
+report/*.fdb_latexmk
+report/*.fls
+report/*.log
+report/*.out
+report/*.toc
+
