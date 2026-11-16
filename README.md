@@ -1,4 +1,4 @@
-# Álgebra Linear e Otimização Contínua para Machine Learning (NumPy Puro)
+# Álgebra Linear e Otimização para Machine Learning
 
 Implementação exploratória, modular e reprodutível — construída **do zero exclusivamente em NumPy puro** (sem `scikit-learn`, `scipy.optimize` ou *frameworks* de diferenciação automática) — dos fundamentos matemáticos que governam estimadores clássicos de Aprendizado de Máquina, superfícies de perda e algoritmos modernos de otimização.
 
